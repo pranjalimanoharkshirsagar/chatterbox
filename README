@@ -1,0 +1,9 @@
+***************TITLE:Student attendance system*****************
+
+MIS ID:141503007
+
+Description : 
+	This is a complete school attendance management system. The respective teacher of the concerned standard and division can input their standard and division and perform operation such as student records management(add, edit, delete, view), take attendance by entering the absent roll nos, view student attendance by roll no or by name.
+	Also this system provides a unique facility to archive the past years and also restore any previous archive year and perform the above mentioned operation successfully.
+	The project maintains a unique and easy directory and file structure so in  case of a crash the the data can be easily retrived from the disk.
+
